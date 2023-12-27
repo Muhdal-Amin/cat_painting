@@ -17,7 +17,7 @@
 
 ### The challenge
 
-A FreeCodeCamp challenge to b uild a Cat Painting and get it looking as close to the original design as possible.
+A FreeCodeCamp challenge to build a Cat Painting and get it looking as close to the original design as possible.
 
 
 Users should be able to:
