@@ -17,7 +17,7 @@
 
 ### The challenge
 
-Build a Cat Painting and get it looking as close to the original design as possible.
+A FreeCodeCamp challenge to b uild a Cat Painting and get it looking as close to the original design as possible.
 
 
 Users should be able to:
@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [City Skyline](https://muhdal-amin.github.io/city_skyline/)
+- Live Site URL: [Cat Painting](https://muhdal-amin.github.io/cat_painting/)
 
 ## My process
 
